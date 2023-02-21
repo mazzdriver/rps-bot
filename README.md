@@ -1,0 +1,2 @@
+# rps-bot
+Study project 
